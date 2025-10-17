@@ -22,7 +22,7 @@ Automated installation script for setting up a complete local AI development env
 ## 🚀 Quick Start
 ```bash
 # Download the installer
-wget https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/install_ollama.sh
+wget https://raw.githubusercontent.com/rogue07/Offline-AI-Coder/main/install_ollama.sh
 
 # Make it executable
 chmod +x install_ollama.sh
