@@ -66,7 +66,7 @@ These answers will help me build something that actually fits your workflow!"
 ## 🚀 Quick Start
 ```bash
 # Download the installer
-wget https://raw.githubusercontent.com/rogue07/YOUR_REPO/main/install_ollama.sh
+wget https://raw.githubusercontent.com/rogue07/Offline-AI-Coder/main/install_ollama.sh
 
 # Make it executable
 chmod +x install_ollama.sh
