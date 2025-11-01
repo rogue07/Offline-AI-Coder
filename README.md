@@ -162,7 +162,7 @@ docker logs open-webui      # View logs
 
 ### Model Management
 ```bash
-ollama list                    # List installed models
+ollama list                   # List installed models
 ollama pull mistral:7b        # Install new model
 ollama rm codellama:7b        # Remove model
 ollama show smart-coder       # View model details
